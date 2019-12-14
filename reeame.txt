@@ -7,3 +7,5 @@ hello world!
 5555566777777
 
 branch
+
+git merge -no-ff 
